@@ -1,0 +1,20 @@
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\bin\Debug\NoiseRemovalTool.exe.config
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\bin\Debug\NoiseRemovalTool.exe
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\bin\Debug\NoiseRemovalTool.pdb
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.csprojResolveAssemblyReference.cache
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.MainForm.resources
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.Properties.Resources.resources
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.csproj.GenerateResource.Cache
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.csproj.CoreCompileInputs.cache
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.exe
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.pdb
+G:\NoiseRemovalTool\NoiseRemovalTool\bin\Debug\NoiseRemovalTool.exe.config
+G:\NoiseRemovalTool\NoiseRemovalTool\bin\Debug\NoiseRemovalTool.exe
+G:\NoiseRemovalTool\NoiseRemovalTool\bin\Debug\NoiseRemovalTool.pdb
+G:\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.csprojResolveAssemblyReference.cache
+G:\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.MainForm.resources
+G:\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.Properties.Resources.resources
+G:\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.csproj.GenerateResource.Cache
+G:\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.exe
+G:\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.pdb
+D:\Current Projects\Static Image Noise Reduction\Project\NoiseRemovalTool\NoiseRemovalTool\obj\Debug\NoiseRemovalTool.AnalisisSetupForm.resources
