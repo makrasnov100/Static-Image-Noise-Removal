@@ -1,5 +1,5 @@
 # Static Image Noise Removal
-When you have many short exposure images with noise it a common to reduce noise by "stacking" images together. Usually programs such as photoshop and others use average stacking or median stacking as go tos however this simple program goes a step further and identifies the pixels in each image that are drastically above or below the average disregarding it altogeether. The result as you see below are relatively noiseless images.
+When you have many short exposure images with noise it a common to reduce noise by "stacking" images together. Usually programs such as photoshop and others use average stacking or median stacking as go-tos to achieve the effect. However this simple program goes a step further and identifies the pixels in each image that are drastically above or below the average disregarding them altogether. The result as you see below are relatively noiseless images with less images in the stack.
 
 ## Original
 ![](1_DowntownA_Original_Zoomed.jpg)
