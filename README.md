@@ -1,0 +1,1 @@
+# Static Image Noise Removal
